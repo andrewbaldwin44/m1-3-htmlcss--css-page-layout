@@ -1,0 +1,48 @@
+.alert {
+  font-size: 20px;
+  width: 97%;
+  border-radius: 5px;
+  padding: 2px 10px;
+  margin-bottom: 10px;
+}
+
+.alert-primary {
+  background-color: #bbdefb;
+  border: 1px solid #90caf9;
+}
+
+.alert-secondary {
+  background-color: #E0E0E0;
+  border: 1px solid #D8D8D8;
+}
+
+.alert-success {
+  background-color: #b9f6ca;
+  border-color: 1px solid #00e676;
+}
+
+.alert-danger {
+  background-color: #ffcdd2;
+  border: 1px solid #ffccbc;
+}
+
+.alert-warning {
+  background-color: #fff9c4;
+  border: 1px solid #fff59d;
+}
+
+.alert-info {
+  background-color: #bbdefb;
+  border: 1px solid #90caf9;
+}
+
+.alert-light {
+  background-color: white;
+  border: 1px solid white;
+  opacity: 0.7;
+}
+
+.alert-dark {
+  background-color: #B8B8B8;
+  border: 1px solid silver;
+}
