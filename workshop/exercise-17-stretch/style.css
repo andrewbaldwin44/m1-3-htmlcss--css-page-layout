@@ -1,0 +1,44 @@
+.card {
+  font-size: 14px;
+  display: flex;
+  flex-direction: column;
+  border: 2px solid #e0e0e0;
+  line-height: 1;
+}
+
+.card-header, .card-title, .card-text {
+  padding: 0 20px;
+}
+
+.card-header {
+  background: #eeeeee;
+  border-bottom: 1px solid #bdbdbd;
+}
+
+.card-title {
+  margin-top: 20px;
+  margin-bottom: 0;
+  font-size: 24px;
+}
+
+.card-text {
+  font-size: 20px;
+}
+
+.button {
+  display: block;
+  font-size: 20px;
+  text-decoration: none;
+  color: white;
+  border-radius: 5px;
+  padding: 10px 50px;
+  border: none;
+  outline: none;
+  width: 15vw;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.button-primary {
+  background-color: dodgerblue;
+}
