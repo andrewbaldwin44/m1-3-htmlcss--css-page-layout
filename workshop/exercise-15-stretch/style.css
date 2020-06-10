@@ -1,0 +1,50 @@
+.button {
+  font-size: 20px;
+  width: 15%;
+  height: 50px;
+  border-radius: 5px;
+  padding: 4px 10px;
+  margin-bottom: 10px;
+  border: none;
+  outline: none;
+  background-color: white;
+}
+
+.button-primary {
+  border: 1px solid dodgerblue;
+  color: dodgerblue;
+}
+
+.button-secondary {
+  border: 1px solid gray;
+  color: gray;
+}
+
+.button-success {
+  border: 1px solid #4caf50;
+  color: #4caf50;
+}
+
+.button-danger {
+  border: 1px solid red;
+  color: red;
+}
+
+.button-warning {
+  border: 1px solid #ffc107;
+  color: #ffc107;
+}
+
+.button-info {
+  border: 1px solid #00bcd4;
+  color: #00bcd4;
+}
+
+.button-light {
+  border: 1px solid #fafafa;
+  color: #fafafa;
+}
+
+.button-dark {
+  border: 1px solid black;
+}
